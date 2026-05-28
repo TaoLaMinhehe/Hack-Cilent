@@ -10,10 +10,6 @@
 <br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/⬇ Download Client-1f8bff?style=for-the-badge">
-</a>
-
-<a href="#">
 <img src="https://img.shields.io/badge/📖 Documentation-5865F2?style=for-the-badge">
 </a>
 
