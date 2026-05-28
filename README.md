@@ -17,12 +17,12 @@
 <img src="https://img.shields.io/badge/📖 Documentation-5865F2?style=for-the-badge">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/💬 Community Server-ff4d4d?style=for-the-badge">
+<a href="https://github.com/TaoLaMinhehe">
+<img src="https://img.shields.io/badge/GitHub-TaoLaMinhehe-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/⭐ Star Repository-f7b500?style=for-the-badge">
+<a href="mailto:baminhnguyendeptrai@gmail.com">
+<img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
@@ -63,16 +63,12 @@
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/Discord-Join_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="#">
+<a href="https://github.com/TaoLaMinhehe">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Contact-Support-red?style=for-the-badge">
+<a href="mailto:baminhnguyendeptrai@gmail.com">
+<img src="https://img.shields.io/badge/Contact-Support-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
