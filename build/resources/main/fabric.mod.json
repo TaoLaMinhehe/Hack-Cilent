@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "client",
+  "version": "7.53.1-MC26.1.2",
+  "name": "Client",
+  "description": "Minecraft client mod",
+  "authors": [
+    "Alexander01998"
+  ],
+  "contact": {},
+  "license": "GPL-3.0-or-later",
+  "icon": "assets/client/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "net.client.WurstInitializer"
+    ]
+  },
+  "mixins": [
+    "client.mixins.json"
+  ],
+  "accessWidener": "client.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.18.3",
+    "fabric-api": ">=0.145.1",
+    "minecraft": "~26.1-pre.1",
+    "java": ">=25"
+  },
+  "suggests": {
+    "mo_glass": "*"
+  },
+  "breaks": {
+    "wi_zoom": "*",
+    "wi-zoom": "*",
+    "vulkanmod": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {}
+    }
+  }
+}
